@@ -1,4 +1,4 @@
-![CI](https://github.com/subhamajalan-spec/url-shortener/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/subhamjalan-spec/url-shortener/actions/workflows/ci.yml/badge.svg)
 <!-- Replace YOUR_USERNAME/YOUR_REPO once pushed, or the badge will be broken. -->
 
 # URL Shortener (FastAPI, PostgreSQL, Redis)
